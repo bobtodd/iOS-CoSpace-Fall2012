@@ -13,16 +13,16 @@ The basics
 ----------
 
 The basic app needs the following functionality:
-*   Input in various scripts (minimally Roman, additionally Chinese and Japanese, etc.);
-*   Ability to store name of dish, brief description, and code/name as encountered in a given restaurant the user has visited;
-*   Look-up by
-**  Name
-**  Code
-**  Keyword
-**  Restaurant
+* Input in various scripts (minimally Roman, additionally Chinese and Japanese, etc.);
+* Ability to store name of dish, brief description, and code/name as encountered in a given restaurant the user has visited;
+* Look-up by
+    * Name
+    * Code
+    * Keyword
+    * Restaurant
 
 The next phase would be to help the user input the information by searching for
-*   The particular restaurant's menu on-line and auto-filling data;
-*   Similar dishes to the one stored in the data base.
+* The particular restaurant's menu on-line and auto-filling data;
+* Similar dishes to the one stored in the data base.
 
 More riveting ideas to come...
